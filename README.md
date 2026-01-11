@@ -46,8 +46,12 @@ This project demonstrates a **full machine learning lifecycle**, from data explo
 
 Class	Presicion	Recall	F1-Score
 0	    0.91	    0.77	0.83
+
+Class	Presicion	Recall	F1-Score
 1	    0.54	    0.76	0.63
+
 Overall Accuracy			0.77
+
 ROC-AUC                     0.85
 
 
