@@ -6,7 +6,7 @@ import joblib
 import pandas as pd
 
 #Load Model
-model = joblib.load('final_churn_model.pkl')
+model = joblib.load('churn_prediction/model/final_churn_model.pkl')
 
 #Define Basemodel
 class Table_Schema(BaseModel):
