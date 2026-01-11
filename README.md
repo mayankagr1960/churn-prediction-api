@@ -77,6 +77,8 @@ SHAP was used to explain:
 - Global feature importance
 - Individual customer predictions
 
+<img width="457" height="680" alt="SHAP_explanation" src="https://github.com/user-attachments/assets/b708420b-f7cf-4bd8-b497-e633beed5365" />
+
 ---
 
 ## 🚀 Live API Deployment
