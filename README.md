@@ -82,3 +82,6 @@ SHAP was used to explain:
 ## 🚀 Live API Deployment
 
 The trained model is deployed as a REST API using FastAPI.
+
+<img width="626" height="331" alt="image" src="https://github.com/user-attachments/assets/304bf0d1-7c05-4389-9e6f-346c1bae5539" />
+
