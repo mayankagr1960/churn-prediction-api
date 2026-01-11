@@ -76,6 +76,7 @@ ROC-AUC                     0.85
 SHAP was used to explain:
 - Global feature importance
 - Individual customer predictions
+- Gender has a minimal impact on prediction. Senior citizens are most likely to churn compared to non senior citizens. Red: Senior citizen (Line deviated towards right side) Blue: Non-senior citizens (Concentrated towards centre)
 
 <img width="457" height="680" alt="SHAP_explanation" src="https://github.com/user-attachments/assets/b708420b-f7cf-4bd8-b497-e633beed5365" />
 
